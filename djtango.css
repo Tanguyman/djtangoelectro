@@ -1,4 +1,4 @@
-/* 
+/*
 Je pense qu'il serait judicieux
 ETAPE DE REALISATION
 1-POSITIONNEMENT des Grandes Boites DISPLAY, POSITION, float non
@@ -12,7 +12,7 @@ Positionnement DISPLAY: BLOCK et INLINE */
 
 video
 {
-	min-height: 100%;/*stretch la video*/ 
+	min-height: 100%;/*stretch la video*/
 	min-width: 100%;/*stretch la video*/
 	width: auto;
 	height: auto;
@@ -55,7 +55,7 @@ footer
 }
 
 #bloc_page
-{	
+{
 	border: dashed;
 	color: white;
 
@@ -191,7 +191,6 @@ li
 
 #agenda article h3
 {
-	background-color: rgba(0,0,0,0);
+	background-color: black;
 	border: solid blue;
 }
-
